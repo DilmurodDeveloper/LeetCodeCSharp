@@ -4,7 +4,7 @@
 
 namespace LeetCodeSolutions
 {
-    public class Solution
+    public partial class Solution
     {
         public int[] TwoSum(int[] nums, int target)
         {
